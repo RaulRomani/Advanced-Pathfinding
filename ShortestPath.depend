@@ -1,0 +1,133 @@
+# depslib dependency file v1.0
+1500593253 source:/home/raul/CodeBlockProject/ShortestPath/main.c
+	<stdio.h>
+	<stdlib.h>
+	<GL/glx.h>
+	<GL/gl.h>
+	<X11/X.h>
+	<X11/keysym.h>
+
+1501036114 source:/home/raul/CodeBlockProject/ShortestPath/main.cpp
+	<iostream>
+	<vector>
+	<list>
+	<map>
+	<math.h>
+	<queue>
+	<set>
+	<ostream>
+	<SFML/Graphics.hpp>
+	"vector2.h"
+	"triangle.h"
+	"delaunay.h"
+
+1498665002 /home/raul/CodeBlockProject/ShortestPath/vector2.h
+	<iostream>
+	<cmath>
+
+1498665002 /home/raul/CodeBlockProject/ShortestPath/triangle.h
+	"vector2.h"
+	"edge.h"
+	<assert.h>
+	<math.h>
+
+1498665002 /home/raul/CodeBlockProject/ShortestPath/edge.h
+	"vector2.h"
+
+1501022282 /home/raul/CodeBlockProject/ShortestPath/delaunay.h
+	"vector2.h"
+	"edge.h"
+	"triangle.h"
+	<vector>
+	<algorithm>
+
+1508246200 source:c:\users\raul\documents\codeblocks\shortestpath\main.cpp
+	<stdio.h>
+	<fstream>
+	<iostream>
+	<vector>
+	<list>
+	<map>
+	<stack>
+	<random>
+	<string>
+	<math.h>
+	<queue>
+	<time.h>
+	<set>
+	<ostream>
+	<SFML/Graphics.hpp>
+	"MapGraph.h"
+	"Grafico.h"
+	"Search.h"
+	"Precalculo.h"
+	"DelaunayTriangulization.h"
+
+1502821437 c:\users\raul\documents\codeblocks\shortestpath\vector2.h
+	<iostream>
+	<cmath>
+
+1498665002 c:\users\raul\documents\codeblocks\shortestpath\triangle.h
+	"vector2.h"
+	"edge.h"
+	<assert.h>
+	<math.h>
+
+1501206682 c:\users\raul\documents\codeblocks\shortestpath\edge.h
+	"vector2.h"
+
+1501022282 c:\users\raul\documents\codeblocks\shortestpath\delaunay.h
+	"vector2.h"
+	"edge.h"
+	"triangle.h"
+	<vector>
+	<algorithm>
+
+1502844621 c:\users\raul\documents\codeblocks\shortestpath\mapgraph.h
+	<fstream>
+	<iostream>
+	<vector>
+	<list>
+	<map>
+	<stack>
+	<math.h>
+	<queue>
+	<time.h>
+	<set>
+	<ostream>
+	"Location.h"
+
+1508240157 c:\users\raul\documents\codeblocks\shortestpath\location.h
+	<ostream>
+	<math.h>
+
+1508208021 c:\users\raul\documents\codeblocks\shortestpath\grafico.h
+	<SFML/Graphics.hpp>
+	"edge.h"
+	"vector2.h"
+	"triangle.h"
+	"delaunay.h"
+	"MapGraph.h"
+
+1508004364 c:\users\raul\documents\codeblocks\shortestpath\search.h
+	<bits/stdc++.h>
+	"MapGraph.h"
+	"Location.h"
+
+1507807536 c:\users\raul\documents\codeblocks\shortestpath\precalculo.h
+	<map>
+	<array>
+	"Location.h"
+	"MapGraph.h"
+	"Search.h"
+
+1502001844 source:c:\users\raul\documents\codeblocks\shortestpath\precalculo.cpp
+	"Precalculo.h"
+	<iostream>
+
+1508209895 c:\users\raul\documents\codeblocks\shortestpath\delaunaytriangulization.h
+	<opencv2/imgproc/imgproc.hpp>
+	<opencv2/highgui/highgui.hpp>
+	"vector2.h"
+	"MapGraph.h"
+

@@ -1,0 +1,5 @@
+static/node_modules
+static/dist
+static/yarn.lock
+server/server_.py
+Todo.java
